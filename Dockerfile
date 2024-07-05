@@ -1,4 +1,4 @@
-FROM fredblgr/ubuntu-novnc: 20.04
+FROM fredblgr/ubuntu-novnc:20.04
 
 
 EXPOSE 80
